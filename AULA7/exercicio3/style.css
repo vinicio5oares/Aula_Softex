@@ -1,0 +1,14 @@
+body{
+    font-color:rgb(89, 85, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    display: flex;
+    flex-direction: column; 
+    background-color: rgb(243, 244, 229);
+}
+
+button{
+    width: 100px;
+    background-color: rgb(161, 193, 190);
+    margin-top: 15px;
+}
