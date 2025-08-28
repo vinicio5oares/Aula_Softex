@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 60%;
+    align-items: center;
+}
+
+table tr:first-child {
+  background-color: #48e77d;
+}
+table tr:nth-child(odd) {
+  background-color: #777474;
+}
+table tr:nth-child(even) {
+  background-color: #635050;
+}
